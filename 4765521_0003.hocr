@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4765521_0003.png"; bbox 0 0 2500 3206; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 389 335 2148 467">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 389 335 2148 467">
+     <span class='ocr_line' id='line_1_1' title="bbox 389 335 2148 467; baseline -0.001 -31"><span class='ocrx_word' id='word_1_1' title='bbox 389 337 1020 438; x_wconf 80' lang='lat' dir='ltr'><strong>AUTHOR:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1107 337 1671 467; x_wconf 80' lang='lat' dir='ltr'>Rossberg,</span> <span class='ocrx_word' id='word_1_3' title='bbox 1720 335 2148 435; x_wconf 81' lang='lat' dir='ltr'>Konrad</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 387 835 1755 1130">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 387 835 1755 1130">
+     <span class='ocr_line' id='line_1_2' title="bbox 388 835 1755 936; baseline 0.001 -3"><span class='ocrx_word' id='word_1_4' title='bbox 388 836 817 934; x_wconf 90' lang='lat' dir='ltr'><strong>TITLE:</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 904 835 1755 936; x_wconf 80' lang='lat' dir='ltr'>Lucubrationes·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 387 1000 1137 1130; baseline 0.004 -32"><span class='ocrx_word' id='word_1_6' title='bbox 387 1000 1137 1130; x_wconf 80' lang='lat' dir='ltr'>propertianae.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 386 1498 1338 1599">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 386 1498 1338 1599">
+     <span class='ocr_line' id='line_1_4' title="bbox 386 1498 1338 1599; baseline 0.001 -2"><span class='ocrx_word' id='word_1_7' title='bbox 386 1498 872 1598; x_wconf 81' lang='lat' dir='ltr'>PLACE:</span> <span class='ocrx_word' id='word_1_8' title='bbox 962 1498 1338 1599; x_wconf 80' lang='lat' dir='ltr'>Stadae</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 384 1998 1165 2099">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 384 1998 1165 2099">
+     <span class='ocr_line' id='line_1_5' title="bbox 384 1998 1165 2099; baseline 0.001 -2"><span class='ocrx_word' id='word_1_9' title='bbox 384 1998 797 2099; x_wconf 79' lang='lat' dir='ltr'><strong>DATE:</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 899 1999 1165 2099; x_wconf 85' lang='lat'>1877</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2500 3206">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2500 3206">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2500 3206; baseline 0 6"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2500 3206; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
